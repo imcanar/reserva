@@ -1,7 +1,7 @@
 <?php
 	//conectamos con el servidor
 
-	$conectar = @mysql_connect('localhost','carpa','123456');
+	$conectar = @mysql_connect('localhost:3306','carpa','123456');
 
 	//verificamos la conexion
 
