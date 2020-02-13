@@ -1,0 +1,241 @@
+h1 {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    color: white;
+    padding-top: 15px;
+    font-size: 50px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -20px;
+    padding-bottom: -10px;
+    width: 15%;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.roboto2 {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: -60px;
+}
+
+.roboto3
+{
+    font-size: 20px;
+    color: white;
+    text-align: justify, center;
+    padding-top: 20px;
+    display: block;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.roboto4
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: -10px;
+    margin-top: -20px;
+}
+
+.roboto5
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    padding-top: 0px;
+}
+
+.reservar,a
+{
+    opacity: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+h2
+{
+    font-family: 'Helvetica';
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+
+}
+
+.fecha {
+    opacity: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 3px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+@media screen and (max-width: 700px){
+    h1 {
+    text-align: center;
+    font-family: 'Sriracha', cursive;
+    color: white;
+    padding-top: 15px;
+    font-size: 40px;
+    }
+    
+    .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -20px;
+    padding-bottom: -10px;
+    width: 50%;
+    }
+    
+    .roboto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    }
+
+    .roboto2 {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: -60px;
+    }
+
+    .roboto3{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
+    .roboto4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: -10px;
+    margin-top: -20px;
+    }
+
+    .roboto5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-top: -50px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+
+    .arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top: 0px;
+    }
+
+    h2{
+    font-family: 'Helvetica';
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+    }
+
+    .fecha {
+    opacity: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 3px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+    .reservar,a{
+    opacity: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-top: -20px;
+    padding-bottom: 0px;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+    .footer {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+}
+
